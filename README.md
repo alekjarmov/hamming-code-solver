@@ -1,3 +1,4 @@
-# hamming-code-solver
-Solves problems related to hamming code
-Code modified from: https://www.geeksforgeeks.org/hamming-code-implementation-in-c-cpp/
+# Hamming Code Solver
+Used for Hamming encoding.
+
+* Code modified from: https://www.geeksforgeeks.org/hamming-code-implementation-in-c-cpp/
